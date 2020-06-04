@@ -141,7 +141,7 @@ Model Building
         m.solve()
         print(x)
 
-.. py:classmethod:: m.solve(disp=True,debug=False)
+.. py:classmethod:: m.solve(disp=True,debug=False, GUI=False)
 
 
 	Solve the optimization problem.
